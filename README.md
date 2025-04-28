@@ -8,6 +8,6 @@ This is a Ca+2 influx assay data coming from FACS measurement, where I measure t
 In this analysis, I calculate the relative change of the Ca2+ after stimulation and compare it to the change after stimulation by negative control.
 The data represents a 30-second long baseline measurement, followed by stimulation, followed by measurement up to 4 minutes.
 
-You need to write the path where your file is located. Example below: 
+You need to write the path where your file is located. Example --> 
 (r"C:\Users\Benutzer1\Desktop\File1\Ca_measurements.xlsx", sheet_name='Stimulant')
 
